@@ -6,7 +6,8 @@ AEPhone_HUBのAEphone_android起動時にvrchatのoscポート許可の確認も
 (AEPhoneのソースコードを見ていないので経験と知識での作成です)<br>
 ### 管理者権限必要なので、右クリックで管理者で起動を押してね
 ## 手順:
-**1.vrchat_osc_firewall_patch.batをダウンロードし管理者権限で起動する、成功したらパソコンを再起動 (ファイヤーウォール許可やポート開放していれば、2から始めてもよい)<br>
+**1.vrchat_osc_firewall_patch.batをダウンロードし管理者権限で起動する、成功したらパソコンを再起動<br>
+(ファイヤーウォール許可やポート開放していれば、2から始めてもよい)<br>
 2.AEPhone HUB起動<br>
 3.スマホのみをPCに接続し、AEPhone HUBのandroidで起動を押す<br>
 4.ステータスがAEPhone_android 起動完了 になったら、HMDを接続し、VRChatを起動する<br>
